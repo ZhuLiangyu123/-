@@ -6,6 +6,6 @@ SOTS（synthetic objective testing set）合成目标测试集数据由华中科
 
 实际下载的SOTS数据集中，解压后的文件包括indoor和outdoor两个子文件夹。其中，indoor文件夹下也包括gt和hazy两个子文件夹，gt中有50张无雾图像，hazy中有500张合成的有雾图像，gt中的每一张无雾图像对应hazy中10张不同雾霾程度的有雾图像。outdoor文件夹下也包括gt和hazy两个子文件夹，gt中有492张无雾图像，hazy中有500张合成的有雾图像。
 
-存疑：gt和hazy中的图像数量并不相等，各位读者大大有了解的欢迎在评论区指出，不胜感激！
+存疑：gt和hazy中的图像数量并不相等。
 
 想了解更多关于​SOTS数据集的详细信息，请看原始论文！
