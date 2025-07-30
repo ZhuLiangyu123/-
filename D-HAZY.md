@@ -1,4 +1,4 @@
-D-HAZY数据集对应论文：D-hazy: A dataset to evaluate quantitatively dehazing algorithms（ICIP 2016）
+D-HAZY数据集对应论文：D-HAZY: A dataset to evaluate quantitatively dehazing algorithms（ICIP 2016）
 
 D-HAZY数据集下载链接：[【D-HAZY】-计算机视觉数据集-极市开发者平台 (cvmart.net)](https://www.cvmart.net/dataSets/detail/559?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article)
 
