@@ -13,14 +13,23 @@
 >}
 
 >@article{fattal2008single,
+
   title={Single image dehazing},
+  
   author={Fattal, Raanan},
+  
   journal={ACM transactions on graphics (TOG)},
+  
   volume={27},
+  
   number={3},
+  
   pages={1--9},
+  
   year={2008},
+  
   publisher={ACM New York, NY, USA}
+  
 }
 
 使用过程中请注意引用这两篇论文！
