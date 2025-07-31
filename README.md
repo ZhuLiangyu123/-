@@ -3,5 +3,5 @@
 
 ### 1、RESIDE系列数据集
 > （1）HSTS
-> （2）ITS
+（2）ITS
 > （3）OTS
