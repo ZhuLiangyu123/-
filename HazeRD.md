@@ -1,6 +1,6 @@
 HazeRD数据集对应论文：HazeRD: An Outdoor Scene Dataset and Benchmark for Single Image Dehazing（ICIP 2018）
 
-HazeRD数据集下载链接：HazeRD: An Outdoor Scene Dataset and Benchmark for Single Image Dehazing | Sharma Research Group
+HazeRD数据集下载链接：[HazeRD: An Outdoor Scene Dataset and Benchmark for Single Image Dehazing | Sharma Research Group](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)
 
 >上述官方提供的网址中获取数据集需要填写表单啥的，在此提供HazeRD数据集的完整文件百度云下载地址（来源于博客：https://blog.csdn.net/Crystal_remember/article/details/119529529）：链接：https://pan.baidu.com/s/1DgfwitXkSh1U24Ax24ii9g   提取码：Haze
 
