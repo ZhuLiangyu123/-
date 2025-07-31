@@ -15,3 +15,4 @@
     （3）I-HAZE数据集
 ### 3、Dense-Haze数据集
 ### 4、NH-HAZE数据集
+### 5、HazeRD数据集
