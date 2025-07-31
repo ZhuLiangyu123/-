@@ -17,3 +17,4 @@
 ### 4、NH-HAZE数据集
 ### 5、HazeRD数据集
 ### 6、Outdoor-Rain数据集（雨雾共存）
+### 7、Fattal's数据集
