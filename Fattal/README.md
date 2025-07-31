@@ -1,6 +1,6 @@
 注意：图片来自于网络，如有侵权请及时告知，立刻删除！
 
-请合理使用该数据集！该数据集对应的论文是：
+请合理使用该数据集！该数据集对应的论文是(使用时注意引用这两篇论文)：
 ```
 @article{fattal2014dehazing,
   title={Dehazing using color-lines},
@@ -26,5 +26,3 @@
   publisher={ACM New York, NY, USA}
 }
 ```
-
-使用过程中请注意引用这两篇论文！
